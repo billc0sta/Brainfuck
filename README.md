@@ -1,5 +1,7 @@
 # Brainfuck
-optimizing brainfuck interpreter, aggregates modifying operations "-+" 
-and completely removes shifting operations "<>" from bytecode.
+## features
+- aggregates modifying operations into one.
+- completely removes shifting from bytecode.
+- instant jump operations.
 
 still under development
