@@ -3,7 +3,7 @@ optimizing brainfuck interpreter
 
 ## features
 - aggregates modifying operations into one.
-- completely removes shifting from bytecode.
+- massively reduces shifting operations.
 - instant jump operations.
 
 still under development

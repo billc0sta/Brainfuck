@@ -1,1 +1,1 @@
-g++ -o brainfuck.exe main.cpp && brainfuck.exe example.txt
+g++ -o brainfuck.exe src/main.cpp && brainfuck.exe example.txt
